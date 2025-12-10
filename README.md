@@ -16,6 +16,7 @@ This project demonstrates my practical experience with:
 
 ## Repository Structure
 
+```
 nyc-taxi-tip-prediction/
 │
 ├── data/
@@ -36,6 +37,7 @@ nyc-taxi-tip-prediction/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+
 
 ---
 
