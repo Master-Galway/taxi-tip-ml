@@ -19,19 +19,19 @@ This project demonstrates my practical experience with:
 nyc-taxi-tip-prediction/
 │
 ├── data/
-│ ├── sample_taxi.csv
-│ ├── sample_predicted_means.csv
-│ └── README.md
+│   ├── sample_taxi.csv
+│   ├── sample_predicted_means.csv
+│   └── README.md
 │
 ├── notebooks/
-│ └── ML_Taxi_Tip_Prediction.ipynb
+│   └── ML_Taxi_Tip_Prediction.ipynb
 │
 ├── reports/
-│ ├── ML_Taxi_Tip.pdf
-│ └── Taxi_Data_Dictionary.pdf
+│   ├── ML_Taxi_Tip.pdf
+│   └── Taxi_Data_Dictionary.pdf
 │
 ├── src/
-│ └── train_model.py
+│   └── train_model.py
 │
 ├── requirements.txt
 ├── .gitignore
