@@ -176,5 +176,5 @@ Only a **small sample** is included in this repository.
 
 **Wei Gao**  
 Data Scientist 
-GitHub: https://github.com/Galway Gao 
+GitHub: https://github.com/Master-Galway
 LinkedIn: https://www.linkedin.com/in/galway-gao/
