@@ -78,7 +78,7 @@ This creates several hundred binary features, but the dimensionality remains man
 
 ---
 
-## ⚙Modeling Approach
+## Modeling Approach
 
 Two tree-based classifiers were trained and tuned:
 
