@@ -52,7 +52,7 @@ The dataset includes timestamped trip information, location IDs, passenger count
 
 ---
 
-## 🧠 Feature Engineering Highlights
+## Feature Engineering Highlights
 
 The following features were engineered to improve predictive performance:
 
@@ -76,7 +76,7 @@ This creates several hundred binary features, but the dimensionality remains man
 
 ---
 
-## ⚙️ Modeling Approach
+## Modeling Approach
 
 Two tree-based classifiers were trained and tuned:
 
@@ -101,7 +101,7 @@ Both were optimized using **GridSearchCV** with 4-fold cross-validation, trackin
 
 ---
 
-## 📊 Results Summary
+## Results Summary
 
 | Model            | Precision | Recall | F1    | Accuracy |
 |-----------------|-----------|--------|-------|-----------|
@@ -121,7 +121,7 @@ The **Random Forest model slightly outperformed XGBoost** in this case.
 
 ---
 
-## 🧾 Confusion Matrix Interpretation (Random Forest)
+## Confusion Matrix Interpretation (Random Forest)
 
 Visually summarized in the notebook and PDF.
 
@@ -141,7 +141,7 @@ Interpretation:
 
 ---
 
-## ⚖Ethical Considerations
+## Ethical Considerations
 
 The project includes discussion on:
 
@@ -162,16 +162,9 @@ This framework aligns with responsible AI principles.
 
 ## Author
 
-**Wei(Galway) Gao**  
-Data Scientist | Python | Machine Learning  
-GitHub: https://github.com/## 👤 Author
-
-**Wei Gao**  
-Data Scientist | Python | Machine Learning  
-GitHub: https://github.com/## 👤 Author
-
 **Wei Gao**  
 Data Scientist | Python | Machine Learning  
 GitHub: https://github.com/Master-Galway  
 LinkedIn: https://www.linkedin.com/in/galway-gao/ 
  
+
