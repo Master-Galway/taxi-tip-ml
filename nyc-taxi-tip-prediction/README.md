@@ -159,6 +159,11 @@ Any real-world deployment should be carefully designed to avoid:
 
 This framework aligns with responsible AI principles.
 
+##  Data Source
+Original trip data from the NYC Taxi & Limousine Commission (TLC):
+https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+
+Only a small sample is included in this repository.
 
 ## Author
 
@@ -167,4 +172,5 @@ Data Scientist | Python | Machine Learning
 GitHub: https://github.com/Master-Galway  
 LinkedIn: https://www.linkedin.com/in/galway-gao/ 
  
+
 
